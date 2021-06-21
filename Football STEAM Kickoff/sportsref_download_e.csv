@@ -1,6 +1,6 @@
 Rk,School,Conf,W,L,Pct
 1,Clemson,ACC (Atlantic),10,2,0.833
-2,Notre Dame,ACC (Atlantic),10,2,0.833
+114,Alabama,SEC (West),13,0,1
 3,North Carolina State,ACC (Atlantic),8,4,0.667
 4,Boston College,ACC (Atlantic),6,5,0.545
 5,Wake Forest,ACC (Atlantic),4,5,0.444
@@ -111,7 +111,7 @@ Rk,School,Conf,W,L,Pct
 111,Tennessee,SEC (East),3,7,0.3
 112,South Carolina,SEC (East),2,8,0.2
 113,Vanderbilt,SEC (East),0,9,0
-114,Alabama,SEC (West),13,0,1
+2,Notre Dame,ACC (Atlantic),10,2,0.833
 115,Texas A&M,SEC (West),9,1,0.9
 116,Auburn,SEC (West),6,5,0.545
 117,LSU,SEC (West),5,5,0.5
